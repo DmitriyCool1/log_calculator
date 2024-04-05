@@ -1,0 +1,10 @@
+C:\Users\dimak\source\repos\CalcLog_Homework\CalcLog_Homework\bin\Debug\CalcLog_Homework.exe.config
+C:\Users\dimak\source\repos\CalcLog_Homework\CalcLog_Homework\bin\Debug\CalcLog_Homework.exe
+C:\Users\dimak\source\repos\CalcLog_Homework\CalcLog_Homework\bin\Debug\CalcLog_Homework.pdb
+C:\Users\dimak\source\repos\CalcLog_Homework\CalcLog_Homework\obj\Debug\CalcLog_Homework.csproj.AssemblyReference.cache
+C:\Users\dimak\source\repos\CalcLog_Homework\CalcLog_Homework\obj\Debug\CalcLog_Homework.Form1.resources
+C:\Users\dimak\source\repos\CalcLog_Homework\CalcLog_Homework\obj\Debug\CalcLog_Homework.Properties.Resources.resources
+C:\Users\dimak\source\repos\CalcLog_Homework\CalcLog_Homework\obj\Debug\CalcLog_Homework.csproj.GenerateResource.cache
+C:\Users\dimak\source\repos\CalcLog_Homework\CalcLog_Homework\obj\Debug\CalcLog_Homework.csproj.CoreCompileInputs.cache
+C:\Users\dimak\source\repos\CalcLog_Homework\CalcLog_Homework\obj\Debug\CalcLog_Homework.exe
+C:\Users\dimak\source\repos\CalcLog_Homework\CalcLog_Homework\obj\Debug\CalcLog_Homework.pdb
